@@ -1,16 +1,24 @@
-## Hi there 👋
+# Adedeji Adebayo
+**Javascript Developer · Nigeria**
 
-<!--
-**Adebayo-jzs/Adebayo-jzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in both frontend and backend development, continuously exploring new technologies and methodologies to stay at the forefront of web development. My main goal is to become a proficient web developer by consistently exploring how technology can be applied to solve real-world problems in our daily lives.
 
-Here are some ideas to get you started:
+## Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Linkedin**: @theebayo
+
+**Email**: adedejiadebayo732@gmail.com
+
+**X**: @theebayo
+
+## Education
+**BSc Software Engineering (in view)**
+
+*Babcock University · Oct 2024 – Present*
+
+## Skills
+Web Development
+
+## Projects
+### Textcognito *(Jan 2026)*
+An anonymous messaging plaftorm
