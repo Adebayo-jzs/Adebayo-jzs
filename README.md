@@ -1,24 +1,31 @@
-# Adedeji Adebayo
-**Javascript Developer · Nigeria**
+# Hi, I'm Adedeji Adebayo 👋
 
-I specialize in both frontend and backend development, continuously exploring new technologies and methodologies to stay at the forefront of web development. My main goal is to become a proficient web developer by consistently exploring how technology can be applied to solve real-world problems in our daily lives.
+**JavaScript Developer · Nigeria 🇳🇬**
 
-## Contact
+I build web applications with both frontend and backend technologies, with a strong interest in creating practical solutions to real-world problems.
 
-**Linkedin**: @theebayo
+---
 
-**Email**: adedejiadebayo732@gmail.com
+## 🚀 About Me
+- 🌱 Continuously learning modern web technologies and best practices.
+- 🧠 Focused on becoming a highly proficient full-stack developer.
+- 🛠️ Passionate about building useful, user-centered products.
 
-**X**: @theebayo
+## 🧰 Skills
+- JavaScript
+- Frontend Development
+- Backend Development
+- Full-Stack Web Development
 
-## Education
-**BSc Software Engineering (in view)**
+## 📚 Education
+**BSc Software Engineering (In View)**  
+Babcock University · Oct 2024 – Present
 
-*Babcock University · Oct 2024 – Present*
-
-## Skills
-Web Development
-
-## Projects
+## 📌 Project Highlight
 ### Textcognito *(Jan 2026)*
-An anonymous messaging plaftorm
+Anonymous messaging platform.
+
+## 📫 Contact
+- **LinkedIn:** [@theebayo](https://www.linkedin.com/in/theebayo)
+- **X (Twitter):** [@theebayo](https://x.com/theebayo)
+- **Email:** adedejiadebayo732@gmail.com
